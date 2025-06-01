@@ -81,6 +81,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>notes</finalName>
 	</build>
-
 </project>
